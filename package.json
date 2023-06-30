@@ -1,7 +1,7 @@
 {
-  "name": "technical-test-nexu",
+  "name": "technical-test-dev-hunter",
   "version": "1.0.0",
-  "description": "This repository is from the technical test of FullStack Developer on Nexu",
+  "description": "This repository is from the technical test of FullStack Developer on DevHunter",
   "main": "index.js",
   "scripts": {
     "start": "node api/index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LDavid-Sandoval/technical-test-nexu.git"
+    "url": "git+https://github.com/LDavid-Sandoval/devhunter-challenge-backend"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LDavid-Sandoval/technical-test-nexu/issues"
+    "url": "https://github.com/LDavid-Sandoval/devhunter-challenge-backend/issues"
   },
-  "homepage": "https://github.com/LDavid-Sandoval/technical-test-nexu#readme",
+  "homepage": "https://github.com/LDavid-Sandoval/devhunter-challenge-backend#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "dotenv": "^16.0.3",
